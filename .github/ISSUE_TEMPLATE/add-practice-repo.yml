@@ -1,0 +1,29 @@
+name: Add Practice Repository
+description: Add Hacktoberfest Practice Repository
+labels: ["add-hacktoberfest-practice-repo"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Hey Geek !!!** 
+
+        This is an open source repository.
+
+        * For questions, ask in [Discussions](https://github.com/codinasion/Hacktoberfest/discussions).
+        * Check to make sure someone hasn't already opened a similar [issue](https://github.com/codinasion/Hacktoberfest/issues).
+
+  - type: textarea
+    attributes:
+      label: Repo Link
+      description: Link of the practice repository
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: This project has a Code of Conduct that all participants are expected to understand and follow.
+      options:
+        - label: I have read and agree to the Codinasion project's [Code of Conduct](CODE_OF_CONDUCT.md)
+          required: true
