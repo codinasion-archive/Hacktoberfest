@@ -54,7 +54,7 @@ You can
 | [First Contributions](https://github.com/firstcontributions/first-contributions) | :rocket::sparkles: Help beginners to contribute to open source projects | ![](https://img.shields.io/github/stars/firstcontributions/first-contributions) | ![](https://img.shields.io/github/forks/firstcontributions/first-contributions) |
 | [LinkFree](https://github.com/EddieHubCommunity/LinkFree)                        | Open source alternative to LinkTree                                     | ![](https://img.shields.io/github/stars/EddieHubCommunity/LinkFree)             | ![](https://img.shields.io/github/forks/EddieHubCommunity/LinkFree)             |
 
-> **Note** You can add Hacktoberfest practice repositories to this list by `raising an Issue`
+> **Note** You can add Hacktoberfest practice repositories to this list by [`raising an Issue`](https://github.com/codinasion/Hacktoberfest/issues/new?assignees=harshraj8843&labels=add-hacktoberfest-practice-repo&template=add-practice-repo.yml)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
@@ -64,7 +64,7 @@ You can
 
 Will be added soon :clock10:
 
-> **Note** You can add Hacktoberfest participating repositories to this list by `raising an Issue`
+> **Note** You can add Hacktoberfest participating repositories to this list by [`raising an Issue`](https://github.com/codinasion/Hacktoberfest/issues/new?assignees=harshraj8843&labels=add-hacktoberfest-participating-repo&template=add-participating-repo.yml)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
