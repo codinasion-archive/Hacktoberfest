@@ -1,0 +1,36 @@
+# This workflow runs every hour and updates the banner
+
+name: Generate Banner
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate_banner:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Generate Banner
+        run: |
+          python generate-banner.py
+          echo "Banner generated :)"
+
+      - name: Push Banner Image
+        uses: crazy-max/ghaction-github-pages@v3.0.0
+        with:
+          target_branch: banner
+          build_dir: banner
+          keep_history: false
+          committer: Harsh Raj <harshraj8843@users.noreply.github.com>
+          author: Harsh Raj <harshraj8843@users.noreply.github.com>
+          commit_message: |
+            update banner image
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
