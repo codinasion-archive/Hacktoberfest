@@ -74,7 +74,7 @@ Will be added soon :clock10:
 
 This is a small contribution from `Codinasion Team` for `Hacktoberfest 2022`
 
-> **Note** This is dynamic banner which updates every hour.
+> **Note** This is dynamic banner which updates every hour. Learn more about it in [`banner.md`](banner.md)
 
 ![Hacktoberfest Banner](https://api.codinasion.org/hacktoberfest/banner)
 
