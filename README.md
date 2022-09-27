@@ -8,7 +8,7 @@
 
 ## What is Hacktoberfest ?
 
-[`Hacktoberfest`](https://hacktoberfest.digitalocean.com/) is a month-long global celebration of open source software, run by [`DigitalOcean`](https://www.digitalocean.com/) in partnership with [`Intel`](https://devmesh.intel.com/), [`AppWrite`](https://hacktoberfest.appwrite.io/), and [`DeepSource`](https://deepsource.io/hacktoberfest/), with a strong focus on encouraging contributions to open source projects.
+[`Hacktoberfest`](https://hacktoberfest.com/) is a month-long global celebration of open source software, run by [`DigitalOcean`](https://www.digitalocean.com/) in partnership with [`Intel`](https://devmesh.intel.com/), [`AppWrite`](https://hacktoberfest.appwrite.io/), and [`DeepSource`](https://deepsource.io/hacktoberfest/), with a strong focus on encouraging contributions to open source projects.
 
 It is the biggest Open Source event that encourages newbies to participate in Open Source and create their 1st meaningful [`Pull Request`](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
@@ -19,8 +19,8 @@ It is the biggest Open Source event that encourages newbies to participate in Op
 ## How can I join ?
 
 1. Create a [GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) (If you don't have one)
-2. Register for Hacktoberfest [will be available soon]
-3. Find Hacktoberfest participating repoitory to contribute
+2. [Register for Hacktoberfest](https://hacktoberfest.com/)
+3. [Find Hacktoberfest participating repoitory to contribute](https://github.com/topics/hacktoberfest?o=desc&s=updated)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
