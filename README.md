@@ -47,7 +47,8 @@ You can
   <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
 </div>
 
-## Hacktoberfest Practice Repos
+<!-- This section no longer needed, as Hacktoberfest 2022 already started -->
+<!-- ## Hacktoberfest Practice Repos
 
 | Repository                                                                       | Description                                                             | Stars                                                                           | Forks                                                                           |
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
@@ -58,11 +59,18 @@ You can
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
-</div>
+</div> -->
 
 ## Repository participating in Hacktoberfest 2022
 
-Will be added soon :clock10:
+| Repository                                                                 | Description                                                                 | Stars                                                                 | Last Updated                                                                 |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| [Program](https://github.com/codinasion/program) | An open source codebase for sharing programming solutions. | ![](https://img.shields.io/github/stars/codinasion/program) | ![](https://img.shields.io/github/last-commit/codinasion/program) |
+| [CS-180](https://github.com/SAMYAK99/CS-180) | An Awesome beginner-friendly repo to help you in open-source contributions. | ![](https://img.shields.io/github/stars/SAMYAK99/CS-180) | ![](https://img.shields.io/github/last-commit/SAMYAK99/CS-180) |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | ![](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp) | ![](https://img.shields.io/github/last-commit/freeCodeCamp/freeCodeCamp) |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python | ![](https://img.shields.io/github/stars/TheAlgorithms/Python) | ![](https://img.shields.io/github/last-commit/TheAlgorithms/Python) |
+
+You can find more participating repositories by [searching `hacktoberfest`](https://github.com/topics/hacktoberfest?o=desc&s=updated)
 
 > **Note** You can add Hacktoberfest participating repositories to this list by [`raising an Issue`](https://github.com/codinasion/Hacktoberfest/issues/new?assignees=harshraj8843&labels=add-hacktoberfest-participating-repo&template=add-participating-repo.yml)
 
