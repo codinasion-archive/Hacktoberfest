@@ -20,7 +20,7 @@ It is the biggest Open Source event that encourages newbies to participate in Op
 
 1. Create a [GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) (If you don't have one)
 2. [Register for Hacktoberfest](https://hacktoberfest.com/)
-3. [Find Hacktoberfest participating repoitory to contribute](https://github.com/topics/hacktoberfest?o=desc&s=updated)
+3. [Find Hacktoberfest participating repository to contribute](https://github.com/topics/hacktoberfest?o=desc&s=updated)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
